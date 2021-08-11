@@ -1,10 +1,10 @@
 ## Hi I'm Railson Santiago
 
 
-- 🌱 Hoje estudo React/JavaScript/Inglês
-- 🤔 Buscacando experiência profissional
+- 🌱 Learning React/JavaScript/Inglês
 - 📫 Contate-me no email: railsonsantiago123@outlook.com
 - 😄 Pronouns: ele/dele
+- 🤔 Seeking professional experience
 
  <div>
   <a href="https://github.com/rafaballerini">
