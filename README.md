@@ -1,7 +1,7 @@
 ## Hi I'm Railson Santiago 🇧🇷
 
 
-- 🌱 Learning React/JavaScript/Inglês
+- 🌱 Learning React/JavaScript/English
 - 📫 Contate-me no email: railsonsantiago123@outlook.com
 - 😄 Pronouns: ele/dele
 - 🤔 Seeking professional experience
